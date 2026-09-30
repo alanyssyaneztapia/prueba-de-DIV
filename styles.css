@@ -1,0 +1,36 @@
+body{
+
+    background-color: rgb(250, 206, 219);
+}
+
+
+.titulo1{
+    color:deeppink
+}
+
+div{
+
+    background-color: rgb(194, 9, 71);
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.container{
+
+    background-color: rgb(14, 36, 231);
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.container2{
+    
+    background-color: rgb(236, 205, 63);
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    text-align: center;
+}
